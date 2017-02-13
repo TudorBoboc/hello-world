@@ -1,2 +1,2 @@
-# hello-world
-hello-world repository for GitHub trial
+# Tudor's GitHub trial 
+This is my first well made repository on GitHub
